@@ -7,7 +7,9 @@
     import CustomBulletList from "$lib/components/CustomBulletList.svelte";
     import NewsLabel from "$lib/components/News/NewsLabel.svelte";
     import NewsRow from "$lib/components/News/NewsRow.svelte";
+    import Footer from "$lib/components/Footer.svelte";
 </script>
+
 
 <header class="h-screen bg-header flex flex-col items-center justify-between bg-cover bg-center bg-no-repeat clip-header">
     <nav class="w-full flex flex-row justify-between items-center font-poppins pt-12 px-28">
@@ -395,9 +397,7 @@
     </div>
 </main>
 
-<footer class="w-full flex flex-col items-center justify-between mt-32">
-    <p class="font-medium font-poppins text-c-gray text-center text-[28px] leading-10 mb-11">Subscribe to get our Newsletter</p>
-</footer>;
+<Footer />
 
 <style lang="postcss">
     .clip-header {
