@@ -33,7 +33,7 @@
         </div>
     </nav>
     
-    <div class="flex flex-row justify-center items-center gap-[76px] px-28">
+    <div class="w-full flex flex-row justify-between items-center px-[140px]">
         <div>
             <p class="font-bold text-[54px] font-poppins text-c-blue">
                 <span class="text-c-orange">
@@ -64,7 +64,8 @@
                 </p>
             </div>
         </div>
-        <img class="w-[640px]" src="/header-pic.png" alt="Header Visual"/>
+        
+        <img class="w-[800px]" src="/header-pic.png" alt="Header Visual"/>
     </div>
 </header>
 
