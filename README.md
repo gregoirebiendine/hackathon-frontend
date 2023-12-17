@@ -1,12 +1,9 @@
 # Design to Code Hackathon
 
 **Hackathon made in peer-programming by :**\
-Grégoire : gregoire.biendine@epitech.eu \
-[@github](https://github.com/gregoirebiendine) \
-Clément : clement.de-laage-de-meux@epitech.eu \
-[@github](https://github.com/clementdelaagedemeux) \
-Clément : clement.chausson@epitech.eu \
-[@github](https://github.com/MrChausson)
+Grégoire : gregoire.biendine@epitech.eu [@gregoirebiendine](https://github.com/gregoirebiendine) \
+Clément : clement.de-laage-de-meux@epitech.eu [@Kaguyuu](https://github.com/clementdelaagedemeux) \
+Clément : clement.chausson@epitech.eu [@MrChausson](https://github.com/MrChausson)
 
 ## Live render
 
